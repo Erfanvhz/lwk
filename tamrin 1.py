@@ -9,8 +9,8 @@ h = [i for i in range(350,400+1)]
 i = [i for i in range(400,450+1)]
 j = [i for i in range(500,550+1)]
 
-dd = a,b,c,d,e,f,g,h,i,j
+zz = a,b,c,d,e,f,g,h,i,j
 
-for i in dd:
+for i in zz:
     for b in i:
         print(b)
