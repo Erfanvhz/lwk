@@ -1,7 +1,13 @@
-pass1 = input("Enter your password => ")
-pass2 = input("Enter your password again => ")
+str= "rock" ;
 
-if pass1 == pass2:
-    print("The entered passwords are the same")
+str="paper" ;
+
+
+
+input("entekhab konid")
+pass2 = input("entekhab konid 2")
+
+if paper == rock:
+    print("paper won")
 else:
     print("wrong password")
